@@ -1,2 +1,2 @@
-# NAME:
-# STUDENT ID:
+# NAME:นายภูมิ เหลี่ยมวานิช
+# STUDENT ID: 670610774
